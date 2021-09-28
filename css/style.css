@@ -22,5 +22,41 @@ body {
 
 h1 {
     display: inline-block;
-    line-height: 51px;
+    line-height: 50px;
+}
+
+/* main */
+.container-interno {
+    width: 80%;
+    height: 500px;
+    background-color: white;
+    margin: 40px auto;
+    border-radius: 10px;
+}
+
+/* sezione pulsanti */
+.add-buttons {
+    height: 60px;
+    border-bottom: 3px solid aliceblue;
+}
+
+#add-task {
+    background-color: rgb(112, 112, 247);
+    color: white;
+    margin-top: 20px;
+}
+
+#add-section {
+    background-color: white;
+    color: grey;
+    margin-top: 20px;
+}
+
+.button-general {
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.margin-section {
+    margin-left: 50px;
 }
