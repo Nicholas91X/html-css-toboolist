@@ -28,10 +28,10 @@ h1 {
 /* main */
 .container-interno {
     width: 80%;
-    height: 500px;
     background-color: white;
     margin: 40px auto;
     border-radius: 10px;
+    padding-bottom: 40px;
 }
 
 /* sezione pulsanti */
@@ -59,7 +59,7 @@ h1 {
 
 .margin-section {
     margin-left: 50px;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 /* sezione new task */
